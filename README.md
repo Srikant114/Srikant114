@@ -68,9 +68,3 @@ Proficient in **React, Node.js, MongoDB**, and deployment on **DigitalOcean** us
 - 🌍 Website: [srikantsahu.in](https://srikantsahu.in)  
 - 🐦 Twitter: [@srikantvlogs](https://twitter.com/srikantvlogs)  
 - 💼 LinkedIn: [linkedin.com/in/srikantsahu114](https://linkedin.com/in/srikantsahu114)
-
----
-
-Let me know if you want me to create this as a downloadable `README.md` file for you. Or you can copy-paste this directly into your [Srikant114/Srikant114](https://github.com/Srikant114/Srikant114) repo.
-
-Ready to proceed to **Step 4: Project README.md Setup**?
