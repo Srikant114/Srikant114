@@ -55,9 +55,12 @@ Proficient in **React, Node.js, MongoDB**, and deployment on **DigitalOcean** us
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikant114&show_icons=true&locale=en&layout=compact" alt="srikant114" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikant114&show_icons=true&locale=en&layout=compact" alt="srikant114" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikant114&show_icons=true&locale=en" alt="srikant114" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikant114&show_icons=true&locale=en" alt="srikant114" /></p> -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=srikant114&show_icons=true" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikant114&" alt="srikant114" /></p>
 
